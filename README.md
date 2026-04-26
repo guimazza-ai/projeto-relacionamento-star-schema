@@ -91,5 +91,7 @@ O modelo foi construído a partir de uma tabela de origem (**Financial Sample**)
 
 ## 🏆 Projeto
 
-- [Modelagem Star Schema](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/star_schema_project.pbix)
+- [Projeto - Modelagem Star Schema](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/star_schema_project.pbix)
+- [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/Financial%20Sample%20(2).xlsx)
+- [Relacionamento - Modelo Star Schema](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/Modelo%20Star%20Schema.png)
 
