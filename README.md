@@ -89,3 +89,7 @@ O modelo foi construído a partir de uma tabela de origem (**Financial Sample**)
 - **Modelagem Dimensional (Star Schema)**
 <img width="1362" height="707" alt="image" src="https://github.com/user-attachments/assets/3c2efffd-f5fd-4f57-9acd-a7419b86b00d" />
 
+## 🏆 Projeto
+
+- [Modelagem Star Schema](https://github.com/guimazza-ai/projeto-relacionamento-star-schema/blob/main/Projeto/star_schema_project.pbix)
+
