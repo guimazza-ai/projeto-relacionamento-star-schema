@@ -87,4 +87,5 @@ O modelo foi construído a partir de uma tabela de origem (**Financial Sample**)
   - Configuração do tipo de dados
     
 - **Modelagem Dimensional (Star Schema)**
+<img width="1362" height="707" alt="image" src="https://github.com/user-attachments/assets/3c2efffd-f5fd-4f57-9acd-a7419b86b00d" />
 
